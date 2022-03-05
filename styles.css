@@ -1,0 +1,21 @@
+body {
+  background-color:darkgray;
+
+}
+.pai {
+  background-color: plum;
+  color: white;
+  max-width: 200px;
+  margin: 0 auto;
+  text-align:right;
+  padding: 50px;
+  border-radius: 30px;
+  box-shadow: 15px 10px violet;
+  font-size: medium;
+}
+button {
+  height: 50;
+  width: 50;
+  color:black;
+  background-color:darkviolet;
+}
